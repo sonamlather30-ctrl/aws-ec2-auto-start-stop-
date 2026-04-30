@@ -1,4 +1,4 @@
-# aws-ec2-auto-start-stop-
+# aws-ec2-auto-start-stop
 
 🧠 Problem Statement
 
